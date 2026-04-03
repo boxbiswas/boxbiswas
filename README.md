@@ -1,16 +1,7 @@
 # Hi there 👋, I'm Indrasish Biswas
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn" width="40" height="40" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
-         alt="Email" width="40" height="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ## 🌟 A Little More About Me
 const biswas = {
