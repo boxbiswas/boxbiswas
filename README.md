@@ -4,6 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indrasish.biswas2006@gmail.com)
 
 ## 🌟 A Little More About Me
+```js
 const biswas = {
   pronouns: "he" | "him",
   code: [Java, Javascript, Python, HTML, CSS, Data Structures & Algorithm, Problem Solving],
@@ -12,3 +13,4 @@ const biswas = {
   databases : [MySQL, MonogoDB],
   tools: [Git, Github, VSCode, Antigravity]
 }
+```
