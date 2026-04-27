@@ -39,5 +39,3 @@ const biswas = {
   hobby: "Cinematic AI Image Generation & Photography Aesthetics",
   challenge: "Solving NP-complete reductions for breakfast"
 }
-
-hello
