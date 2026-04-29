@@ -33,9 +33,10 @@
 ```js
 const biswas = {
   pronouns: "he" | "him",
-  code: ["Java", "Javascript", "Python", "Data Structures & Algorithms"],
-  focus: ["Computer Architecture", "Digital Logic Design", "Probability & Statistics"],
-  currentProject: "Deep diving into VHDL and Synchronous Counters",
-  hobby: "Cinematic AI Image Generation & Photography Aesthetics",
-  challenge: "Solving NP-complete reductions for breakfast"
+  code: [Java, Javascript, Python, HTML, CSS, Data Structures & Algorithm],
+  frontend: [React, Tailwind, Bootstrap],
+  backend: [Nodejs, Django],
+  databases : [MySQL],
+  tools: [Git, Github, VSCode, Docker, Antigravity],
+  cs: [OOPS, DBMS],
 }
