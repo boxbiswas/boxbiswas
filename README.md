@@ -177,49 +177,63 @@ const biswas = {
 
 <br/>
 
-<!-- Row 1: Stats Card + Streak -->
-<p>
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=boxbiswas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&count_private=true&include_all_commits=true"
-       alt="Indrasish's GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxbiswas&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12"
-       alt="Top Languages"/>
+<!-- Row 1: Stats Card + Top Languages -->
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=boxbiswas&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxbiswas&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </p>
 
 <br/>
 
-<!-- Row 2: GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=boxbiswas&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="GitHub Streak" width="60%"/>
-
-<br/><br/>
-
-<!-- Row 3: Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boxbiswas&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a2a4a&hide_border=true&radius=12" alt="Contribution Graph" width="95%"/>
-
-<br/><br/>
-
-<!-- Row 4: GitHub Snake Contribution Animation -->
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/boxbiswas/boxbiswas/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/boxbiswas/boxbiswas/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation"
-       src="https://raw.githubusercontent.com/boxbiswas/boxbiswas/output/github-contribution-grid-snake-dark.svg"
-       width="100%" />
-</picture>
-
-</div>
+<!-- GitHub Streak -->
+<p align="center">
+  <img
+    width="65%"
+    src="https://streak-stats.demolab.com?user=boxbiswas&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 <br/>
 
-<!-- Animated wave divider -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer&reversal=true" width="100%"/>
+<!-- Activity Graph -->
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=boxbiswas&theme=github-dark&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
+</p>
 
+<br/>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/boxbiswas/boxbiswas/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/boxbiswas/boxbiswas/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/boxbiswas/boxbiswas/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+
+</div>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    CONNECT SECTION                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
