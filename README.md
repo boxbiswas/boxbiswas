@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
+  
 <!-- Animated wave header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Indrasish%20Biswas&fontSize=55&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Undergrad%20%7C%20Problem%20Solver&descAlignY=58&descColor=8b949e&animation=fadeIn" alt="Header Banner"/>
 
