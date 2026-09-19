@@ -177,26 +177,30 @@ const biswas = {
 
 <br/>
 
-<!-- Row 1: Stats Card + Streak -->
+<!-- Row 1: Stats Card + Top Languages
+     FIX: switched from github-readme-stats.vercel.app (rate-limited/down)
+     to the shion.dev mirror. Same parameters, same look. -->
 <p>
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=boxbiswas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&count_private=true&include_all_commits=true"
+       src="https://github-readme-stats.shion.dev/api?username=boxbiswas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&count_private=true&include_all_commits=true"
        alt="Indrasish's GitHub Stats"/>
   &nbsp;&nbsp;
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxbiswas&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12"
+       src="https://github-readme-stats.shion.dev/api/top-langs/?username=boxbiswas&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12"
        alt="Top Languages"/>
 </p>
 
 <br/>
 
-<!-- Row 2: GitHub Streak -->
+<!-- Row 2: GitHub Streak (working, unchanged) -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=boxbiswas&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="GitHub Streak" width="60%"/>
 
 <br/><br/>
 
-<!-- Row 3: Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boxbiswas&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a2a4a&hide_border=true&radius=12" alt="Contribution Graph" width="95%"/>
+<!-- Row 3: Contribution Graph
+     FIX: github-readme-activity-graph.vercel.app was down, so this now uses
+     ghchart.rshah.org (contribution heatmap in the same blue, 58a6ff). -->
+<img src="https://ghchart.rshah.org/58a6ff/boxbiswas" alt="Contribution Graph" width="95%"/>
 
 <br/><br/>
 
